@@ -9,7 +9,7 @@ st.write("Ask me anything! I can search the web and summarize information.")
 
 # --- API Keys (সরাসরি বসানো হয়েছে - পরীক্ষার জন্য) ---
 # নিরাপদ ব্যবহারের জন্য Streamlit Secrets ব্যবহার করুন।
-gemini_api_key = "AIzaSyC2kY_Da5TtxDWCxoV8kVrTGklgnTI7FVA"
+gemini_api_key = "AIzaSyCjDcII-Korvbso13lLTl0Kz1cFKJNhjPI"
 tavily_api_key = "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"
 
 # --- Client Setup ---
